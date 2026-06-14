@@ -37,6 +37,7 @@ This project demonstrates practical Object‑Oriented Programming concepts while
    javac src/*.java
    java -cp src BdATMApplication
 
+<<<<<<< HEAD
    Example workflow:
 - Start the ATM app  
 - Enter account details  
@@ -60,3 +61,6 @@ This project demonstrates practical Object‑Oriented Programming concepts while
 Developed by **Bodrick Ndilu Landu**  
 Junior Software Engineer in training (Java/Backend)  
 Passionate about OOP, databases, and building practical solutions. 
+=======
+   
+>>>>>>> 3a622b6a0b2a601729cffe3a694eda8de1966132
