@@ -1,4 +1,4 @@
-![Developer Banner]https://github.com/BdNdilu/BdATMApplication/blob/main/UML/ATMuml.png
+![Developer Banner]
 # BdATMApplication 💳🏦
 
 ## 📌 Overview
@@ -25,7 +25,7 @@ This project demonstrates practical Object‑Oriented Programming concepts while
 ---
 
 ## 🧩 UML Diagram
-![ATM UML Diagram](uml/atm-uml.png)
+![ATM UML Diagram] https://github.com/BdNdilu/BdATMApplication/blob/main/UML/ATMuml.png
 
 ---
 
