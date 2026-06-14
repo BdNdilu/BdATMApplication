@@ -1,4 +1,4 @@
-![Developer Banner]
+![Developer Banner] https://github.com/BdNdilu/BdATMApplication/blob/main/UML/uml-banner.png?raw=true
 # BdATMApplication 💳🏦
 
 ## 📌 Overview
