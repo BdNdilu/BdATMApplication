@@ -57,7 +57,7 @@ This project demonstrates practical Object‑Oriented Programming concepts while
 ---
 
 ## 👨‍💻 About Me
-Developed by **Bodrick Ndilu Landu**  
+Developed by **Bodrick**  
 Junior Software Engineer in training (Java/Backend)  
 Passionate about OOP, databases, and building practical solutions. 
 =======
